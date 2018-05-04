@@ -9,4 +9,5 @@ Solved Tasks:
 
 4. Median of Two Sorted Arrays
 239. Sliding Window Maximum
+155. Min Stack
 
