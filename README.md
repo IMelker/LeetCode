@@ -24,3 +24,7 @@ Solved Tasks:
 7-Reverse Integer
 
 541-Reverse String II
+
+190-Reverse Bits
+
+
