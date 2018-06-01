@@ -21,4 +21,6 @@ Solved Tasks:
 
 344-Reverse String
 
+7-Reverse Integer
+
 
