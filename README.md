@@ -17,6 +17,8 @@ Solved Tasks:
 
 352-Data Stream as Disjoint Intervals
 
-230. Kth Smallest Element in a BST
+230-Kth Smallest Element in a BST
+
+344-Reverse String
 
 
